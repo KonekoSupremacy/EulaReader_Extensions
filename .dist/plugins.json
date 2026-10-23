@@ -99,15 +99,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/ar/mtlarabic/icon.png"
 	},
 	{
-		"id": "novel4up",
-		"name": "Novel4Up",
-		"site": "https://novel4up.com/",
-		"lang": "‎العربية",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/arabic/Novel4Up[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/novel4up/icon.png"
-	},
-	{
 		"id": "novelsparadise",
 		"name": "Novels Paradise",
 		"site": "https://novelsparadise.site/",
@@ -441,15 +432,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/citrusaurora/icon.png"
 	},
 	{
-		"id": "coralboutique",
-		"name": "Coral Boutique",
-		"site": "https://coralboutique.xyz/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/CoralBoutique[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/coralboutique/icon.png"
-	},
-	{
 		"id": "cotereader",
 		"name": "COTE Reader",
 		"site": "https://cote-reader.me",
@@ -486,15 +468,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/fictioneer/daoistquest/icon.png"
 	},
 	{
-		"id": "daonovel",
-		"name": "DaoNovel",
-		"site": "https://daonovel.co/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/DaoNovel[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/daonovel/icon.png"
-	},
-	{
 		"id": "daotekno",
 		"name": "DaoTekno",
 		"site": "https://daotekno.com/",
@@ -520,15 +493,6 @@
 		"version": "1.1.1",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/divinedaolibrary.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/divinedaolibrary/icon.png"
-	},
-	{
-		"id": "dearestrosalie",
-		"name": "Dearest Rosalie",
-		"site": "https://dearestrosalie.com",
-		"lang": "English",
-		"version": "1.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/DearestRosalie[fictioneer].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/fictioneer/dearestrosalie/icon.png"
 	},
 	{
 		"id": "dobynovels",
@@ -937,15 +901,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/lightnovelworld/icon.png"
 	},
 	{
-		"id": "lilyonthevalley",
-		"name": "Lily on the Valley",
-		"site": "https://lilyonthevalley.com",
-		"lang": "English",
-		"version": "1.2.1",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/LilyontheValley[fictioneer].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/fictioneer/lilyonthevalley/icon.png"
-	},
-	{
 		"id": "lncrawler",
 		"name": "LNCrawler",
 		"site": "https://lncrawler.monster",
@@ -1027,15 +982,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/maehwasup/icon.png"
 	},
 	{
-		"id": "meownovel",
-		"name": "Meownovel",
-		"site": "https://meownovel.com/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/Meownovel[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/meownovel/icon.png"
-	},
-	{
 		"id": "mizupanshoko",
 		"name": "Mizupan's Archives",
 		"site": "https://mizupanshoko.wordpress.com",
@@ -1043,24 +989,6 @@
 		"version": "1.0.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/mizupanshoko.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/mizupanshoko/icon.png"
-	},
-	{
-		"id": "moonlightnovel",
-		"name": "Moonlight Novels",
-		"site": "https://moonlightnovel.com/",
-		"lang": "English",
-		"version": "1.1.13",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/MoonlightNovels[lightnovelwp].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/lightnovelwp/moonlightnovel/icon.png"
-	},
-	{
-		"id": "mostnovel",
-		"name": "MostNovel",
-		"site": "https://mostnovel.com/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/MostNovel[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/mostnovel/icon.png"
 	},
 	{
 		"id": "mtl-novel",
@@ -1106,15 +1034,6 @@
 		"version": "1.0.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/mynovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/mynovels/icon.png"
-	},
-	{
-		"id": "mysticalmerries",
-		"name": "MysticalSeries",
-		"site": "https://mysticalmerries.com/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/MysticalSeries[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/mysticalmerries/icon.png"
 	},
 	{
 		"id": "neosekaiTLS",
@@ -1187,15 +1106,6 @@
 		"version": "1.0.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/novelarchive.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/novelarchive/icon.png"
-	},
-	{
-		"id": "novelarrow",
-		"name": "Novel Arrow",
-		"site": "https://novelarrow.com/",
-		"lang": "English",
-		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/novelarrow.js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/novelarrow/icon.png"
 	},
 	{
 		"id": "novelbin",
@@ -1286,15 +1196,6 @@
 		"version": "1.1.5",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/novelight.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/novelight/icon.png"
-	},
-	{
-		"id": "novelmultiverse",
-		"name": "NovelMultiverse",
-		"site": "https://www.novelmultiverse.com/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/NovelMultiverse[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/novelmultiverse/icon.png"
 	},
 	{
 		"id": "novelnice",
@@ -1440,15 +1341,6 @@
 		"version": "1.2.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/PenguinSquad[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/fictioneer/penguinsquad/icon.png"
-	},
-	{
-		"id": "prizmatranslation",
-		"name": "Prizma",
-		"site": "https://prizmatranslation.com",
-		"lang": "English",
-		"version": "1.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/Prizma[fictioneer].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/fictioneer/prizmatranslation/icon.png"
 	},
 	{
 		"id": "puffinfolio",
@@ -1631,15 +1523,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/sylthorian/icon.png"
 	},
 	{
-		"id": "systemtranslation",
-		"name": "System Translation",
-		"site": "https://systemtranslation.com/",
-		"lang": "English",
-		"version": "1.1.12",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/SystemTranslation[lightnovelwp].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/lightnovelwp/systemtranslation/icon.png"
-	},
-	{
 		"id": "tangerinearchive",
 		"name": "Tangerine Archive",
 		"site": "https://tangerinearchive.com/",
@@ -1766,15 +1649,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/wetriedtls/icon.png"
 	},
 	{
-		"id": "whitemoonlightnovels",
-		"name": "White Moonlight Novels",
-		"site": "https://whitemoonlightnovels.com/",
-		"lang": "English",
-		"version": "1.1.12",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/WhiteMoonlightNovels[lightnovelwp].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/lightnovelwp/whitemoonlightnovels/icon.png"
-	},
-	{
 		"id": "witchculttranslations",
 		"name": "Witch Cult Translations",
 		"site": "https://witchculttranslation.com",
@@ -1791,15 +1665,6 @@
 		"version": "2.2.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/WooksTeahouse[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/wooksteahouse/icon.png"
-	},
-	{
-		"id": "wordexcerpt",
-		"name": "WordExcerpt",
-		"site": "https://wordexcerpt.com/",
-		"lang": "English",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/WordExcerpt[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/wordexcerpt/icon.png"
 	},
 	{
 		"id": "WTRLAB",
@@ -2144,15 +2009,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/jp/syosetu/icon.png"
 	},
 	{
-		"id": "agit.xyz",
-		"name": "Agitoon",
-		"site": "https://agit664.xyz",
-		"lang": "조선말, 한국어",
-		"version": "3.1.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/korean/Agitoon.js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/kr/agitoon/icon.png"
-	},
-	{
 		"id": "fortuneeternal",
 		"name": "Fortune Eternal",
 		"site": "https://www.fortuneeternal.com",
@@ -2169,15 +2025,6 @@
 		"version": "1.0.3",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/polish/novelki.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/pl/novelki/icon.png"
-	},
-	{
-		"id": "betternovels",
-		"name": "Better Novels",
-		"site": "https://betternovels.net/",
-		"lang": "Português",
-		"version": "1.1.12",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/portuguese/BetterNovels[lightnovelwp].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/lightnovelwp/betternovels/icon.png"
 	},
 	{
 		"id": "blnovels",
@@ -2223,15 +2070,6 @@
 		"version": "2.2.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/portuguese/Kiniga[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/kiniga/icon.png"
-	},
-	{
-		"id": "lanovels",
-		"name": "LaNovels",
-		"site": "https://lanovels.com",
-		"lang": "Português",
-		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/portuguese/LaNovels[hotnovelpub].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/hotnovelpub/lanovels/icon.png"
 	},
 	{
 		"id": "lightnovelbrasil",
@@ -2477,15 +2315,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/lightnovelwp/allnovelread/icon.png"
 	},
 	{
-		"id": "AnimesHoy12",
-		"name": "AnimesHoy12",
-		"site": "https://animeshoy12.com/",
-		"lang": "Español",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/spanish/AnimesHoy12[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/animeshoy12/icon.png"
-	},
-	{
 		"id": "anslid",
 		"name": "Anslid",
 		"site": "https://anslid.com/",
@@ -2502,15 +2331,6 @@
 		"version": "1.0.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/spanish/hasutl.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/es/hasutl/icon.jpg"
-	},
-	{
-		"id": "lightnoveldaily",
-		"name": "LightNovelDaily",
-		"site": "https://lightnoveldaily.com",
-		"lang": "Español",
-		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/spanish/LightNovelDaily[hotnovelpub].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/hotnovelpub/lightnoveldaily/icon.png"
 	},
 	{
 		"id": "mtlnovel-es",
@@ -2621,15 +2441,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/es/tunovelaligera/icon.png"
 	},
 	{
-		"id": "yuukitls",
-		"name": "Yuuki Tls",
-		"site": "https://yuukitls.com/",
-		"lang": "Español",
-		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/spanish/yukitls.js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/es/yuukitls/icon.png"
-	},
-	{
 		"id": "novel-lucky",
 		"name": "Novel Lucky",
 		"site": "https://novel-lucky.com/",
@@ -2675,15 +2486,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/tr/epiknovel/icon.png"
 	},
 	{
-		"id": "Kakikata",
-		"name": "kakikata",
-		"site": "https://kakikata.com.tr/",
-		"lang": "Türkçe",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/turkish/kakikata[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/kakikata/icon.png"
-	},
-	{
 		"id": "kodekslibrary",
 		"name": "Kodeks Library",
 		"site": "https://www.kodekslibrary.com/",
@@ -2702,15 +2504,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/tr/mangatr/icon.png"
 	},
 	{
-		"id": "nabiscans",
-		"name": "NABİ SCANS",
-		"site": "https://nabiscans.com/",
-		"lang": "Türkçe",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/turkish/NABSCANS[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/nabiscans/icon.png"
-	},
-	{
 		"id": "namevt",
 		"name": "Namevt",
 		"site": "https://namevt.com/",
@@ -2718,15 +2511,6 @@
 		"version": "1.1.12",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/turkish/Namevt[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/lightnovelwp/namevt/icon.png"
-	},
-	{
-		"id": "noveloku",
-		"name": "Novel oku",
-		"site": "https://noveloku.com.tr/",
-		"lang": "Türkçe",
-		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/turkish/Noveloku[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/madara/noveloku/icon.png"
 	},
 	{
 		"id": "noveltr",
@@ -2754,15 +2538,6 @@
 		"version": "1.0.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/turkish/rezeroturkce.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/tr/rezeroturkce/icon.png"
-	},
-	{
-		"id": "thnovels",
-		"name": "ThNovels",
-		"site": "https://thnovels.com",
-		"lang": "Türkçe",
-		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/turkish/ThNovels[hotnovelpub].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/hotnovelpub/thnovels/icon.png"
 	},
 	{
 		"id": "turkcelightnovels",
@@ -2817,15 +2592,6 @@
 		"version": "1.2.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/vietnamese/LNHako.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/vi/hakolightnovel/icon.png"
-	},
-	{
-		"id": "nettruyen",
-		"name": "Nettruyen",
-		"site": "https://nettruyen.com.vn",
-		"lang": "Tiếng Việt",
-		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/vietnamese/nettruyen.js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/vi/nettruyen/icon.png"
 	},
 	{
 		"id": "truyendich",

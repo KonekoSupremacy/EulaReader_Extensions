@@ -419,7 +419,7 @@
 		"site": "https://chikari.moe",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/Chikari.js",
+		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/chikari.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/chikari/icon.png"
 	},
 	{
@@ -899,15 +899,6 @@
 		"version": "2.3.2",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/LightNovelPlus[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/readnovelfull/lightnovelplus/icon.png"
-	},
-	{
-		"id": "lightnovelpubvip",
-		"name": "LightNovelPub Vip",
-		"site": "https://lightnovelpub.vip/",
-		"lang": "English",
-		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/LightNovelPubVip[webnovelworld].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/webnovelworld/lightnovelpubvip/icon.png"
 	},
 	{
 		"id": "lightnovelto",
@@ -1764,15 +1755,6 @@
 		"version": "2.3.0",
 		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/wntl.js",
 		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/src/en/webnoveltraslation/icon.png"
-	},
-	{
-		"id": "webnovelworld",
-		"name": "Web Novel Pub",
-		"site": "https://www.webnovelworld.org/",
-		"lang": "English",
-		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/.js/src/plugins/english/WebNovelPub[webnovelworld].js",
-		"iconUrl": "https://raw.githubusercontent.com/KonekoSupremacy/EulaReader_Extensions/main/public/static/multisrc/webnovelworld/webnovelworld/icon.png"
 	},
 	{
 		"id": "wetriedtls",
